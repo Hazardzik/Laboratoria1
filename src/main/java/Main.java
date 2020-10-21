@@ -5,7 +5,7 @@ public class Main {
         Audi.marka="Audi";
         Audi.odpalPojazd();
         Audi.zamknijDrzwi();
-        System.out.println(Audi.kola+"  "+Audi.marka);
+
     }
 }
 
